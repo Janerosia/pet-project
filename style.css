@@ -1,0 +1,35 @@
+/* this is for the bacground color*/
+* {
+  background-color: rgb(214, 207, 231);
+  text-align: center;
+  text-transform: capitalize;
+}
+
+/*this help the bacgruond color of the importance to change*/
+h1 {
+  background-color: rgb(243, 41, 152);
+  font-size: 50px;
+  font-weight: 200px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+/*this part is for the bacground color of the paragragh under h1*/
+p {
+  color: rgb(19, 18, 18);
+  background-color: rgb(216, 216, 176);
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+  font-style: 20px;
+  text-align: left;
+}
+/*this part is for the h2 design*/
+h2 {
+  color: rgb(10, 9, 9);
+  background-color: rgb(243, 41, 152);
+  font-size: medium;
+}
+
+.box-I {
+  color: rgb(199, 219, 219);
+  margin: 5px, 10px, 5px, 10px;
+}
